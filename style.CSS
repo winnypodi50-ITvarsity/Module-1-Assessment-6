@@ -1,0 +1,40 @@
+h2{
+	font-family: Impact,fantasy;
+	text-align: center;
+	font-size: 30px;
+    color: darksalom;
+    font-style: oblique;
+}
+
+h4{
+	font-family: Impact, fantasy;
+	font-size: 20px;
+	font-style: italic;
+	color: crimson;
+}
+
+p{
+	font-family: Helvetica, sans-serif;
+}
+
+#menu{
+	width:100%;
+	height:40px;
+	background-color: deeppink;
+	padding-top: 12px
+}
+
+#menu a{
+	color:#ffffff;
+	font-family: Helvetica, sans-serif;
+	font-size: 18px;
+	text-decoration:none;
+	font-weight: 800px;
+
+	padding-left: 20px;
+	padding-right: 20px
+}
+
+#menu a:hover{
+	    color: #5077bd;
+}
